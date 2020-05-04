@@ -5,3 +5,6 @@ I. Alimenatia sanatoasa
  
 II. Filmul romanesc
  ![Screenshot](filmul.jpg)
+
+III. Minciuna
+ ![Screenshot](minciuna.jpg)
