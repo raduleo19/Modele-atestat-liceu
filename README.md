@@ -1,5 +1,7 @@
 # Modele-atestate-liceu
 
+Site-urile sunt simple, folosesc acelasi schelet, sunt usor de adaptat si sunt responsive.
+
 I. Alimenatia sanatoasa
  ![Screenshot](alimentatie.jpg)
  
