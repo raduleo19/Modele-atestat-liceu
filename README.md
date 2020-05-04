@@ -11,3 +11,6 @@ III. Minciuna
  
 IV. Stefan Cel Mare
  ![Screenshot](stefan.jpg)
+ 
+V. Poluarea
+ ![Screenshot](poluarea.jpg)
