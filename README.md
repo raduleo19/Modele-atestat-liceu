@@ -8,3 +8,6 @@ II. Filmul romanesc
 
 III. Minciuna
  ![Screenshot](minciuna.jpg)
+ 
+IV. Stefan Cel Mare
+ ![Screenshot](stefan.jpg)
