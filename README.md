@@ -3,7 +3,7 @@
 Site-urile sunt simple, folosesc acelasi schelet, sunt usor de adaptat si sunt responsive.
 Acestea sunt doar exemple si pot reprezenta o baza pentru realizarea atestatelor de informatica.
 
-I. Alimenatia sanatoasa
+I. Alimentatia sanatoasa
  ![Screenshot](alimentatie.jpg)
  
 II. Filmul romanesc
